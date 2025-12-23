@@ -1,0 +1,20 @@
+Hình 21: biểu đồ tổng năng lượng tiêu thụ theo vòng
+Hình 20: Biểu đồ năng lượng cho mỗi Packet
+Hình 19: biểu đồ tương quan giữa CH chết và Round
+Hình 18: Mô phỏng dataset 2
+Hình 17: biểu đồ tổng năng lượng tiêu thụ theo vòng
+Hình 16: Biểu đồ năng lượng cho mỗi Packet
+Hình 15: biểu đồ tương quan giữa CH chết và Round
+Hình 14: Mô phỏng dataset 1
+Hình 13: sơ đồ lớp thuật toán DFCR
+Hình 12: lược đồ thuật toán DFCR
+Hình 11: mã giả thuật toán định tuyến
+Hình 10: lược đồ thuật toán định tuyến
+Hình 9: mã giả thuật toán phân cụm
+Hình 8: lược đồ thuật toán phân cụm
+Hình 7: Các CH nối với nhau
+Hình 6: Các cụm trong WSN
+Hình 5: Ứng dụng của WSN trong quản lý đô thị
+Hình 4: ứng dụng của WSN trong nông nghiệp
+Hình 3: ứng dung của WSN trong giám sát môi trường
+HÌnh 2: Các thành phần của WSN
